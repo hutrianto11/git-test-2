@@ -11,6 +11,10 @@
 <body>
     <h1>hello worl!</h1>
     <p>paragraf baru</p>
+    <ul>
+        <li>satu</li>
+        <li>dua</li>
+    </ul>
 </body>
 
 </html>
